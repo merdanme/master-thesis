@@ -1,5 +1,5 @@
-# Master Thesis
-Predicting Financial Performance of Firms through Green Patents using Natural Language Processing - Master Thesis in M.Sc. Economics and Management Science, Humboldt-Universität zu Berlin
+# Predicting Financial Performance of Firms through Green Patents using Natural Language Processing
+Master Thesis submitted to the School of Business and Economics of Humboldt-Universität zu Berlin for the degree M.Sc. Economics and Management Science, 
 
 
 ## Abstract
